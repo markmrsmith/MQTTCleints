@@ -1,0 +1,92 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.ipch
+*.enc
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/MQTTClientPublisher/.vs/MQTTClientPublisher
+/MQTTClientPublisher/Debug/MQTTClie.0fde0f9e.tlog
+*.log
+*.recipe
+/MQTTClientPublisher/Debug/MQTTClientPublisher.vcxproj.FileListAbsolute.txt
+/MQTTClientSubscriber/.vs/MQTTClientSubscriber
+/MQTTClientSubscriber/Debug/MQTTClie.032b9319.tlog
+/MQTTClientSubscriberJavascript/node_modules
+/MQTTClientPublisher/Release/MQTTClie.0fde0f9e.tlog
+/MQTTClientSubscriber/Release/MQTTClie.032b9319.tlog
+*.iobj
+*.ipdb
+/MQTTClientSubscriber/x64/Debug/MQTTClie.032b9319.tlog
+/MQTTClientSubscriber/Release/MQTTClientSubscriber.vcxproj.FileListAbsolute.txt
+*.vsidx
+/.vs/slnx.sqlite
+/.vs/MQTTClient/v17/.wsuo
+/.vs/MQTTClient/v17/Browse.VC.db
+/.vs/MQTTClient/v17/Browse.VC.db-shm
+/.vs/MQTTClient/v17/Browse.VC.db-wal
+/.vs/MQTTClient/v17/Browse.VC.opendb
+/.vs/MQTTClient/v17/ipch/AutoPCH/2166eaec16f8aa57
+*.ipch
+*.testlog
+*.wsuo
+/MQTTClientPublisher/packages/Microsoft.googletest.v140.windesktop.msvcstl.dyn.rt-dyn.1.8.1.7
+/MQTTClientPublisher/Release/MQTTClientPublisher.vcxproj.FileListAbsolute.txt
+/MQTTClientPublisher/test.cpp
+/MQTTClientPublisher/Debug/Test_MQTT_Publisher.exe.gta.testdurations
+/.vs/VSWorkspaceState.json
+/CMakeProject1/.vs/CMakeProject1/config/applicationhost.config
+/CMakeProject1/.vs
+/Test_MQTT_Publisher
+
+/packages/Microsoft.googletest.v140.windesktop.msvcstl.dyn.rt-dyn.1.8.1.7
+/CMakeProject1
+.vscode/
+/googletest/
+/.vs/MQTTClient/v17/ipch/AutoPCH/35c5a0d3e5e9bd66/MQTTCLIENTSUBSCRIBER.ipch
+/.vs/MQTTClient/v17/ipch/AutoPCH/ecb6649b933b099c/MQTTCLIENTPUBLISHER.ipch

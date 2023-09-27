@@ -1,0 +1,3 @@
+C:\Users\mrsmi\OneDrive\Documents\GitHub\MQTTClientSubscriber\Debug\MQTTClientSubscriber.exe
+C:\Users\mrsmi\OneDrive\Documents\GitHub\MQTTClients\MQTTClientSubscriber\Debug\MQTTClientSubscriber.exe
+C:\Users\mrsmi\OneDrive\Documents\GitHub\MQTTClient\MQTTClientSubscriber\Debug\MQTTClientSubscriber.exe
