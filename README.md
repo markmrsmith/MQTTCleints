@@ -29,7 +29,7 @@ There is a single MQTT client publisher written in C but can be created on both 
 
 ** assumes you have gcc installed
 
-`git submodule update --recursive --remote  
+```git submodule update --recursive --remote  
 rm -rf ./MQTTClientPublisher/MQTTClientPublisher  
 rm -rf ./MQTTClientSubscriber/MQTTClientSubscriber  
 cd MQTTClientPublisher  
@@ -37,7 +37,7 @@ make all
 cd ../  
 cd MQTTClientSubscriber  
 make all  
-`cd ../`
+cd ../```
 
 ## To run in Linux
 
