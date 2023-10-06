@@ -23,7 +23,7 @@ There is a single MQTT client publisher written in C but can be created on both 
 ## To run in Windows
 
 ```windows_run.bat```
-** complies both the c client publisher and subscriber
+** runs both the c client publisher and subscriber
 
 ## To build in Linux
 

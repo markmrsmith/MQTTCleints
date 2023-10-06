@@ -16,3 +16,4 @@ client.on_message = on_message
 client.connect("broker.emqx.io", 1883, 60)
 
 client.loop_forever()
+client.disconnect()
