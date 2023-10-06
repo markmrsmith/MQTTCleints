@@ -16,6 +16,10 @@ There is a single MQTT client publisher written in C but can be created on both 
 
 ## To build in Windows
 
+ open MQTTClientPublisher.sln in visual studio and build
+ open MQTTClientSubscriber.sln in visual studio and build
+
+ **or**
 ```windows_build.bat```
 **complies both the c client publisher and subscriber
 ** may need to update the path to your complier
